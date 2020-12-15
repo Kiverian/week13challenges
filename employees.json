@@ -1,0 +1,64 @@
+{
+    "Employees": [
+        {
+            "name": "Tyrek Thompson",
+            "id": 1,
+            "salary": 53000,
+            "department": "RTH"
+        },
+        {
+            "name": "Braxton Jackson",
+            "id": 2,
+            "salary": 60000,
+            "department": "BOA"
+        },
+        {
+            "name": "Artea Wright",
+            "id": 3,
+            "salary": 70000,
+            "department": "Google"
+        },
+        {
+            "name": "Josh Proctor",
+            "id": 4,
+            "salary": 250000,
+            "department": "Red Ventures"
+        },
+        {
+            "name": "Kiverian Pinkard",
+            "id": 5,
+            "salary": 4500000,
+            "department": "RTH"
+        },
+        {
+            "name": "Fredrick Evans",
+            "id": 6,
+            "salary": 80000,
+            "department": "Engineer"
+        },
+        {
+            "name": "Taz Johnson",
+            "id": 7,
+            "salary": 75000,
+            "department": "HR"
+        },
+        {
+            "name": "Ann-Marie Evans",
+            "id": 8,
+            "salary": 82000,
+            "department": "Lawyer"
+        },
+        {
+            "name": "David Smith",
+            "id": 9,
+            "salary": 60000,
+            "department": "Military"
+        },
+        {
+            "name": "Chad Davis",
+            "id": 10,
+            "salary": 5500000,
+            "department": "Financial Advisor"
+        }
+    ]
+}
